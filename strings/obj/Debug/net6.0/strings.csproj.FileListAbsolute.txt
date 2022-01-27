@@ -1,0 +1,15 @@
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\obj\Debug\net6.0\strings.csproj.AssemblyReference.cache
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\obj\Debug\net6.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\obj\Debug\net6.0\strings.AssemblyInfoInputs.cache
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\obj\Debug\net6.0\strings.AssemblyInfo.cs
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\obj\Debug\net6.0\strings.csproj.CoreCompileInputs.cache
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\bin\Debug\net6.0\strings.exe
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\bin\Debug\net6.0\strings.deps.json
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\bin\Debug\net6.0\strings.runtimeconfig.json
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\bin\Debug\net6.0\strings.dll
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\bin\Debug\net6.0\ref\strings.dll
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\bin\Debug\net6.0\strings.pdb
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\obj\Debug\net6.0\strings.dll
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\obj\Debug\net6.0\ref\strings.dll
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\obj\Debug\net6.0\strings.pdb
+D:\CENG_PogChamp\BoşZamanÇalışmaları\csharp\strings\obj\Debug\net6.0\strings.genruntimeconfig.cache
